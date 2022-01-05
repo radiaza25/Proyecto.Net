@@ -1,0 +1,26 @@
+
+#map {
+	border: black 5px solid;
+	float: left;
+	height: 500px;
+	width: 75%;
+}
+#lista {
+	float: right;
+	height: 500px;
+	width: 25%;
+}
+
+
+#table1 {
+	border: black 5px solid;
+	overflow-y: scroll;
+	height: 500px;
+	display: block;
+}
+#usuarios {
+	overflow-y: scroll;
+	margin: 0 auto;
+	height: 400px;
+	width: 60%;
+}
